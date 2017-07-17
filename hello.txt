@@ -1,2 +1,3 @@
  mi repositorio
+<<<<<<< HEAD
 nuevo comentario para mi rama master
